@@ -1,0 +1,116 @@
+body{
+    text-align: center;
+}
+.review{
+    border: 2px solid seagreen;
+    text-align: center;
+    width: max-content;
+    padding: 2% 2%;
+    margin-left: 25%;
+    transition: 1s;
+}
+.review:hover{
+    box-shadow: 2px 2px 2px 4px red;
+}
+.image img{
+    border-radius:50%;
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+}
+.prebtn{
+    font-size: larger;
+    font-weight: 200;
+    border: 2px solid black;
+}
+.postbtn{
+    font-size: larger;
+    font-weight: 200;
+    border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -----------------------------practise------------------ */
+/* 
+.carousel {
+    position: relative;
+    width: 100%;
+    max-width: 600px; 
+    overflow: hidden;
+  }
+  
+  .slides {
+    display: flex;
+  }
+  
+  .slide {
+    flex: 0 0 100%;
+    transition: transform 0.5s ease;
+  }
+  
+  input[type="radio"] {
+    display: none;
+  }
+  
+  input[type="radio"]:checked + .slides .slide {
+    transform: translateX(-100%);
+  }
+  
+  .navigation {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+  
+  .navigation label {
+    cursor: pointer;
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #ddd;
+    margin: 0 5px;
+  }
+  
+  input[type="radio"]:checked + .navigation label {
+    background: #555;
+  } 
+   */
